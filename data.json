@@ -1,0 +1,49 @@
+{
+  "career":{
+  "info":"To get certificate from apssdc enchance my knowledge and utilizing my skills towards growth of organization"
+},
+"education":[
+  {
+    "degree":"s.s.c",
+    "school":"Bhashyam public school",
+    "data":["2013","93%"]
+  },
+  {
+  "degree":"Inter",
+  "school":"Narayana junior college",
+  "data":["2013-15","92%"]
+},
+{
+  "degree":"B-tech",
+  "school":"G.pullaiah engineering and technology",
+  "data":["2015-19","91%"]
+}
+],
+"skills":[
+  {
+    "name":"operating system",
+    "info":["R","C#","Java","Phython"]
+  },
+
+  {
+    "name":"operating system",
+    "info":["win-10","Fedora","redHat","ubuntu"]
+  },
+  {
+    "name":"Data Bases",
+    "info":["Mysql","Oracle","MangoDB"]
+  },
+  {
+    "name":"Web Technologies",
+    "info":["HTML","CSS","Javascript"]
+  },
+  {
+    "name":"Frame works",
+    "info":[".Net","Bootstrap","CodeIgniter"]
+  },
+  {
+    "name":"Libraries",
+    "info":["Jquery"]
+  }
+]
+}
